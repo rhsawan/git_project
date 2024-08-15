@@ -1,0 +1,27 @@
+Git: 
+commit, push, pull, merger, conflict, 
+
+gitLens extension in VS code
+
+git init (into the project folder)
+git add file_name/git add * (for all file)
+git status (current status)
+git commit -m "some message"
+git log (to exit press q)
+git checkout $hashvalue of commit ref
+git checkout master (present code)
+git diff
+git stash (stage after last commit)
+git checkout -b newbranch (branch creation)
+git branch (list of branch)
+git merge _branch name (merge to master)
+git rm _filename (permanet remove)
+git remote add origin link
+git push origin master
+git pull origin master
+
+
+
+
+
+
