@@ -1,5 +1,5 @@
 Git: 
-commit, push, pull, merger, conflict, 
+commit, push, pull, merger, conflict, this is master branch
 
 gitLens extension in VS code
 
