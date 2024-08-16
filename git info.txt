@@ -1,4 +1,4 @@
-Git: 
+Git:  (Secondary branch)
 commit, push, pull, merger, conflict, 
 
 gitLens extension in VS code
