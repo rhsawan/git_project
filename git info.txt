@@ -3,8 +3,11 @@ commit, push, pull, merger, conflict,
 
 gitLens extension in VS code
 
-git init (into the project folder)
-git add file_name/git add * (for all file)
+git init (into the project folder) -> to inintiate a folder or project
+
+git add file_name/git add * (for all file) -> this command will change file status to stage. for commit
+we have to take files in staging first. 
+
 git status (current status)
 git commit -m "some message"
 git log (to exit press q)
